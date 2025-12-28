@@ -1,6 +1,6 @@
 +++
 date = '2025-12-28T12:27:30-05:00'
-draft = true
+draft = false
 title = 'CLI_Commands'
 +++
 
