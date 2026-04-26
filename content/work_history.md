@@ -11,7 +11,7 @@ Remote | February 2026 - Present
 ___
 
 ### Research Director, WNJU Telemundo 47 | NBCUniversal Media, LLC 
-Greater New York City Area | November 2018 - Present
+Greater New York City Area | November 2018 - February 2026
 - Spearheaded cross-platform primary research studies integrating linear, digital and streaming 
 metrics to understand our local community's needs/wants which were used to enhance multicultural 
 engagement strategies

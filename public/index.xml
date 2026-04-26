@@ -6,8 +6,15 @@
     <description>Recent content in About on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 12:27:30 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 20:09:34 -0400</lastBuildDate>
     <atom:link href="https://NehpetsGP.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://NehpetsGP.github.io/posts/markdown/</link>
+      <pubDate>Sat, 25 Apr 2026 20:09:34 -0400</pubDate>
+      <guid>https://NehpetsGP.github.io/posts/markdown/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CLI_Commands</title>
       <link>https://NehpetsGP.github.io/posts/cli_commands/</link>
