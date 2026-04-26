@@ -16,12 +16,12 @@
   weight = 10
 
 [[main]]
-  name = "Resources"
-  pageRef = "resources"
+  name = "Posts"
+  pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Projects/Interests"
+  name = "Projects"
   pageRef = "projects"
   weight = 30
 

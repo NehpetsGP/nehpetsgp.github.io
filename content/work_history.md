@@ -5,6 +5,11 @@ title = 'CV'
 +++
 
 ## Work History
+### Research Director, NBCU Local Chicago | NBCUniversal Media, LLC
+Remote | February 2026 - Present
+
+___
+
 ### Research Director, WNJU Telemundo 47 | NBCUniversal Media, LLC 
 Greater New York City Area | November 2018 - Present
 - Spearheaded cross-platform primary research studies integrating linear, digital and streaming 

@@ -4,23 +4,11 @@ draft = false
 title = 'Garden-weather App'
 +++
 
-I was sitting in my office on a cold winter night - after clearing snow - dreaming
-of warm spring days in the sun, when I decided to act on a personal project I have
-had in the back of my mind for a while now.
-
-When snow and cold give way to tree buds swelling and sunshine, I'm always over-eager
-to plant the garden in anticipation for that first tomato-sandwich of the season. 
-
-The problem is, I live in the Northeast where false Spring plays its siren song for
-seasonally-depressed gardeners every year. But THIS year, this year will be different...
-
-At least my tracking will be different. In addition to more typical weather data you'll
-find in your phone app, Open-Meteo also provides soil temperature readings which are handy.
-
 If you're a gardener who can't be bothered to set out rain gauges, measure soil temperature,
 or manually track precipitation patterns, but still want to have that data...I see you.
 
-With help from my friend Opus in Claude Code, I settled on below for now.
+Below is a report I put together to make that gardening life a little bit easier, resources included.
+
 
 ### APIs used
 - **Weather data**: [Open-Meteo](https://open-meteo.com) - Free, no API key needed

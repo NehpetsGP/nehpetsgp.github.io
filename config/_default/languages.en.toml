@@ -9,7 +9,7 @@ title = "Home"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["work_history", "resources"]
+  mainSections = ["work_history", "posts"]
   # description = "My awesome website"
 
 [params.author]
@@ -30,7 +30,7 @@ title = "Home"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/NehpetsGP" },
+    { github = "https://github.com/NehpetsGP" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },

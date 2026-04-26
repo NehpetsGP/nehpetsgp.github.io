@@ -1,8 +1,9 @@
 +++
-date = '2025-11-15T10:27:02-05:00'
-draft = false
+date = '2026-04-25T20:09:34-04:00'
+draft = true
 title = 'Markdown'
 +++
+
 
 If you're unfamiliar with markdown, it's easy to learn. The essentials below are
 everything you need to get started. 
