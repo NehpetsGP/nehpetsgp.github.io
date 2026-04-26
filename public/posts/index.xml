@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://NehpetsGP.github.io/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 20:09:34 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/posts/markdown/</link>
-      <pubDate>Sat, 25 Apr 2026 20:09:34 -0400</pubDate>
-      <guid>http://localhost:1313/posts/markdown/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 12:27:30 -0500</lastBuildDate>
+    <atom:link href="https://NehpetsGP.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CLI_Commands</title>
-      <link>http://localhost:1313/posts/cli_commands/</link>
+      <link>https://NehpetsGP.github.io/posts/cli_commands/</link>
       <pubDate>Sun, 28 Dec 2025 12:27:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/cli_commands/</guid>
+      <guid>https://NehpetsGP.github.io/posts/cli_commands/</guid>
       <description></description>
     </item>
   </channel>
